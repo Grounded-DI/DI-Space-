@@ -1,6 +1,6 @@
 # DI-Space-
 
-This repository preserves two Grounded DI reports about 3I/ATLAS and Kepler-62e.
+This repository preserves Grounded DI reports concerning astronomical objects, space science, and scientific assessment.
 
 ## Report index
 
@@ -8,7 +8,9 @@ This repository preserves two Grounded DI reports about 3I/ATLAS and Kepler-62e.
 |---|---|
 | [3I_ATLAS_DI2_SpaceWise.pdf](3I_ATLAS_DI2_SpaceWise.pdf) | A Gatekeeper audit dated 8 September 2025. It records an Earth-risk score of 0 and a no-threat conclusion, alongside time-specific approach estimates. |
 | [Kepler62e_Report-8_14.pdf.pdf](Kepler62e_Report-8_14.pdf.pdf) | A DI Reason report discussing habitability, recording ΔH = 0.13, and concluding that microbial life may be possible. It also records a natural-origin assessment for the signal discussion. |
+| [Independent scientific assessment: UV sky map](assessments/science/uv-sky-map/README.md) | A source-level assessment of Anthropic/B. Ménard’s reconstructed ultraviolet sky map, including claims, validation, provenance, uncertainty, and reproducibility. The assessment finds the reconstruction scientifically credible and well documented; numerical accuracy was not independently replayed, and performance in the most difficult unobserved Galactic-plane conditions remains unresolved. |
 
-## Scope
+## Scope and evidence status
 
-These are authored analysis reports. The repository contains no source-data package, executable analysis, or independent review that reproduces their astronomy, risk, or life assessments. The 3I/ATLAS conclusions and estimates are dated to September 2025; the Kepler-62e life assessment is a possibility claim, not evidence that life was detected.
+This repository contains authored reports. A report’s conclusions are not, by themselves, independent replication of the underlying science. The existing 3I/ATLAS estimates are dated to September 2025; the Kepler-62e report describes possible habitability and does not establish detection of life. The UV sky map assessment is source-level and reports no independent numerical replay.
+
