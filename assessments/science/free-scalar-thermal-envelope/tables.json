@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "recorded_not_fresh_execution": true,
+  "response_table": {
+    "report_page": 3,
+    "quantity": "Psi_prime",
+    "rows": [
+      {
+        "x": 1.1,
+        "critical_ON_large_N": 1.080605,
+        "free_scalar": 1.126612
+      },
+      {
+        "x": 2,
+        "critical_ON_large_N": 1.907122,
+        "free_scalar": 2.25
+      },
+      {
+        "x": 5,
+        "critical_ON_large_N": 4.742819,
+        "free_scalar": 5.870499
+      }
+    ]
+  },
+  "radial_calibration": {
+    "report_page": 6,
+    "sector": "static rotationally symmetric scalar Laplacian; regular origin; Dirichlet disk; R=1",
+    "rows": [
+      {
+        "L": 3,
+        "cells": 100,
+        "finite_volume_lambda0": 0.953962753,
+        "shooting_lambda0": 0.953962189,
+        "reported_difference": 5.63e-07
+      },
+      {
+        "L": 3,
+        "cells": 400,
+        "finite_volume_lambda0": 0.953962224,
+        "shooting_lambda0": 0.953962189,
+        "reported_difference": 3.53e-08
+      },
+      {
+        "L": 6,
+        "cells": 100,
+        "finite_volume_lambda0": 0.447647739,
+        "shooting_lambda0": 0.447622822,
+        "reported_difference": 2.49e-05
+      },
+      {
+        "L": 6,
+        "cells": 400,
+        "finite_volume_lambda0": 0.447624379,
+        "shooting_lambda0": 0.447622822,
+        "reported_difference": 1.56e-06
+      },
+      {
+        "L": 9,
+        "cells": 100,
+        "finite_volume_lambda0": 0.344869693,
+        "shooting_lambda0": 0.344820649,
+        "reported_difference": 4.9e-05
+      },
+      {
+        "L": 9,
+        "cells": 400,
+        "finite_volume_lambda0": 0.344823714,
+        "shooting_lambda0": 0.344820649,
+        "reported_difference": 3.07e-06
+      }
+    ]
+  },
+  "note": "Displayed differences retain report precision; they are not recomputed from rounded eigenvalues."
+}

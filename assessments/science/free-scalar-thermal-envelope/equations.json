@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "notation_note": "LaTeX transcription of displayed report statements, retaining their stated assumptions; not new derivations.",
+  "equations": [
+    {
+      "report_page": 2,
+      "id": "flat_space_conjecture",
+      "latex": "c_S/C_T \\le 16\\pi\\zeta(3)"
+    },
+    {
+      "report_page": 2,
+      "id": "hyperbolic_conjecture",
+      "latex": "\\Psi^{\\prime}(x)\\le\\Psi^{\\prime}_{\\mathrm{scalar}}(x),\\quad x\\ge1"
+    },
+    {
+      "report_page": 3,
+      "id": "normalizations",
+      "latex": "s(T)=c_ST^2,\\quad T_0=1/(2\\pi R),\\quad x=T/T_0,\\quad\\Psi=12R^2s_H/(\\pi^3 C_T)"
+    },
+    {
+      "report_page": 3,
+      "id": "scalar",
+      "latex": "c_S=3\\zeta(3)/(2\\pi),\\quad C_T=3/(32\\pi^2),\\quad c_S/C_T=16\\pi\\zeta(3)"
+    },
+    {
+      "report_page": 3,
+      "id": "local_boundary_free",
+      "latex": "\\Psi^{\\prime\\prime}(1)=3/4+t_4/240"
+    },
+    {
+      "report_page": 3,
+      "id": "scalar_boundary_correction",
+      "latex": "\\delta h_1^{\\prime\\prime}=-\\pi/512,\\quad\\delta\\Psi_{\\mathrm{scalar}}^{\\prime\\prime}(1)=1/2,\\quad\\Psi_{\\mathrm{scalar}}^{\\prime\\prime}(1)=19/15"
+    },
+    {
+      "report_page": 3,
+      "id": "local_remainder",
+      "latex": "D(1+\\delta)=a\\delta+o(\\delta),\\quad D=\\Psi_{\\mathrm{scalar}}^{\\prime}-\\Psi^{\\prime},\\quad a\\ge1/2"
+    },
+    {
+      "report_page": 5,
+      "id": "conditional_transition",
+      "latex": "\\Psi^{\\prime}\\supset [12R^2\\Delta s_H/(\\pi^3C_T)]\\delta(x-x_c)"
+    },
+    {
+      "report_page": 5,
+      "id": "constant_auxiliary_operator",
+      "latex": "K=-\\partial_\\tau^2-\\Delta_{\\mathbb H^2}-1/(4R^2)+m^2/R^2"
+    },
+    {
+      "report_page": 5,
+      "id": "normalizable_bound",
+      "latex": "\\langle\\phi,K\\phi\\rangle\\ge(m^2/R^2)\\|\\phi\\|^2"
+    },
+    {
+      "report_page": 5,
+      "id": "coupled_equations",
+      "latex": "K_\\sigma\\phi=0,\\quad\\phi^2-\\sigma+G_\\sigma(z,z)=0"
+    }
+  ]
+}

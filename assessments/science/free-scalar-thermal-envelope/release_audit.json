@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0",
+  "review_date": "2026-10-28",
+  "release_status": "READY_AFTER_TARGETED_REVISIONS",
+  "scope": "Public-release editorial, evidence-scope, citation, privacy, machine-readability and visual review; no fresh scientific execution or independent expert certification.",
+  "original_sha256": "b06d174fe1aa9dbab339b638757ded2bae32459e694b46bc0514dff7fc2e6d4a",
+  "public_pdf_sha256": "6d82a0e8279045cee5bfac4cd46bbcf67f9714b08f971a15c0a521c46185d35f",
+  "repo": {
+    "url": "https://github.com/Grounded-DI/DI-Space-",
+    "reviewed_commit": "cc1b1f64d1df186e0fe94de4bf9c79599d042d57",
+    "scalar_artifacts_present_at_review": false,
+    "publication_performed": false
+  },
+  "changes": [
+    {
+      "page": 1,
+      "change": "Added Public Research Edition 1.1 version label."
+    },
+    {
+      "page": 7,
+      "change": "Removed 3 private account-bearing links; replaced with retained-record access statement and absent-second-replay-receipt qualification."
+    },
+    {
+      "page": 8,
+      "change": "Removed unsupported attribution of AI-assisted problem selection; described verified acknowledgement categories and clarified scientific versus audit authorship."
+    },
+    {
+      "scope": "file",
+      "change": "Removed original embedded C2PA credential from altered derivative because original byte-binding provenance cannot be carried as valid for modified content; original preserved privately."
+    }
+  ],
+  "scientific_disposition": "No counterexample or consequential mathematical error established; universal bounds and nonconstant competing saddle remain unresolved.",
+  "claims": [
+    {
+      "id": "C01",
+      "report_pages": [
+        1,
+        2
+      ],
+      "claim": "No qualifying counterexample or consequential mathematical error established in this work.",
+      "evidence_status": "audit_conclusion",
+      "limit": "Does not prove universal inequalities."
+    },
+    {
+      "id": "C02",
+      "report_pages": [
+        2,
+        3
+      ],
+      "claim": "Flat and hyperbolic inequalities remain conjectures.",
+      "evidence_status": "source_verified",
+      "limit": "Herzog and Stergiou v1; local result is conditional."
+    },
+    {
+      "id": "C03",
+      "report_pages": [
+        3
+      ],
+      "claim": "Free-field ratios and sampled response values reproduce adopted formulas.",
+      "evidence_status": "archived_output_inspected",
+      "limit": "No fresh scientific execution; shared formulas/solver are not independent premises."
+    },
+    {
+      "id": "C04",
+      "report_pages": [
+        3,
+        4
+      ],
+      "claim": "Near x=1 local positivity is theory-dependent and conditional.",
+      "evidence_status": "qualified_analytic_claim",
+      "limit": "No uniform neighborhood or completed independent parity-odd/contact treatment."
+    },
+    {
+      "id": "C05",
+      "report_pages": [
+        4
+      ],
+      "claim": "Finite-N rows and next-to-leading expansions recombine published inputs.",
+      "evidence_status": "recorded_calculation",
+      "limit": "Not independent source simulation or diagrammatic reproduction."
+    },
+    {
+      "id": "C06",
+      "report_pages": [
+        4
+      ],
+      "claim": "Ising central values about51.08 and47.55 are below60.42.",
+      "evidence_status": "recorded_comparison",
+      "limit": "Second conversion was not independently reconstructed; not a counterexample."
+    },
+    {
+      "id": "C07",
+      "report_pages": [
+        5
+      ],
+      "claim": "A qualifying positive entropy jump could challenge pointwise hyperbolic envelope.",
+      "evidence_status": "conditional_inference",
+      "limit": "No such physical dominant branch constructed or verified."
+    },
+    {
+      "id": "C08",
+      "report_pages": [
+        5
+      ],
+      "claim": "Constant auxiliary field excludes nonzero normalizable kernel on checked branch.",
+      "evidence_status": "scoped_analytic_claim",
+      "limit": "Not complete coupled Hessian positivity or exclusion of disconnected saddles."
+    },
+    {
+      "id": "C09",
+      "report_pages": [
+        6
+      ],
+      "claim": "Radial calibration improves with grid refinement.",
+      "evidence_status": "archived_output_inspected",
+      "limit": "Only one static radial sector; no Green function/determinant/coupled saddle/free energy."
+    },
+    {
+      "id": "C10",
+      "report_pages": [
+        7
+      ],
+      "claim": "136 numeric values in original recorded output.",
+      "evidence_status": "archive_structure_verified",
+      "limit": "Count excludes booleans; not136 independent tests."
+    },
+    {
+      "id": "C11",
+      "report_pages": [
+        2,
+        7
+      ],
+      "claim": "Second pass reportedly matched recorded output bytes.",
+      "evidence_status": "historical_report_only",
+      "limit": "No distinct replay output/log/receipt in recovered bundles; not independently verified for this release."
+    },
+    {
+      "id": "C12",
+      "report_pages": [
+        7
+      ],
+      "claim": "Recorded paper/radial hashes identify artifacts.",
+      "evidence_status": "hashes_partly_verified",
+      "limit": "Main source PDF and radial code/output hashes match recovered bytes; O(N) source hash not independently established here."
+    }
+  ],
+  "visual_qa": {
+    "pages_inspected": 8,
+    "clipping_or_overlap_found": false
+  },
+  "privacy": {
+    "private_account_links_in_public_copy": 0,
+    "embedded_files_in_public_copy": 0,
+    "secrets_or_personal_family_data_found": false
+  },
+  "accessibility": {
+    "searchable_text": true,
+    "tagged_pdf": false,
+    "pdf_ua_certified": false,
+    "structured_companions": true
+  },
+  "license": "No new license granted for Grounded DI report/code; original source paper license does not license this audit.",
+  "claims_to_avoid": [
+    "Universal conjectures proved",
+    "136 independently validated tests",
+    "Full nonconstant saddle solved",
+    "Independent expert certification",
+    "Public replay availability before files are actually published"
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "HerzogStergiou2026ThermalEnvelope",
+    "type": "article",
+    "title": "The Free Scalar as a Thermal Envelope for Three-Dimensional CFTs",
+    "author": [
+      {
+        "family": "Herzog",
+        "given": "Christopher P."
+      },
+      {
+        "family": "Stergiou",
+        "given": "Andreas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          23
+        ]
+      ]
+    },
+    "publisher": "arXiv",
+    "number": "2610.33179v1",
+    "URL": "https://arxiv.org/abs/2610.33179v1",
+    "note": "Preprint, version1; no journal acceptance established."
+  }
+]

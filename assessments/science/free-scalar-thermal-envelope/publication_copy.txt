@@ -1,0 +1,15 @@
+Grounded DI's model-assisted audit of the free-scalar thermal envelope is published as Public Research Edition 1.1.
+
+The recorded checks reproduced selected calculations. No counterexample or consequential mathematical error was established. The universal inequalities remain conjectures, and the nonconstant competing-saddle calculation remains unresolved.
+
+Original research and credit: Christopher P. Herzog and Andreas Stergiou, “The Free Scalar as a Thermal Envelope for Three-Dimensional CFTs,” arXiv:2610.33179v1 [hep-th] (2026).
+https://arxiv.org/abs/2610.33179v1
+
+Audit and synthesis: Grounded DI LLC, with model assistance. No author endorsement or independent expert certification is implied.
+
+#TheoreticalPhysics #ConformalFieldTheory #ReproducibleResearch #ScientificComputing #GroundedDI
+
+Released report: https://github.com/Grounded-DI/DI-Space-/blob/main/assessments/science/free-scalar-thermal-envelope/Free_Scalar_Audit_Report_Public_v1_1.pdf
+Release landing page: https://github.com/Grounded-DI/DI-Space-/tree/main/assessments/science/free-scalar-thermal-envelope
+
+Publication does not imply fresh scientific execution, author endorsement, independent expert certification, or public access to the private supporting archives.
