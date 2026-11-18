@@ -1,6 +1,6 @@
 # DI-Space-
 
-This repository preserves Grounded DI reports concerning astronomical objects, space science, and scientific assessment.
+Grounded DI's space-science record includes a dated 3I/ATLAS risk audit, a Kepler-62e habitability discussion, and two source-level assessments of recent research.
 
 ## Report index
 
@@ -13,6 +13,6 @@ This repository preserves Grounded DI reports concerning astronomical objects, s
 
 ## Scope and evidence status
 
-This repository contains authored reports. A report’s conclusions are not, by themselves, independent replication of the underlying science. The existing 3I/ATLAS estimates are dated to September 2025; the Kepler-62e report describes possible habitability and does not establish detection of life. The UV sky map assessment is source-level and reports no independent numerical replay.
+The 3I/ATLAS estimates belong to September 2025. The Kepler-62e discussion assesses possible habitability. The research assessments identify which mathematical or numerical checks remain open, including the UV sky map's independent replay.
 
 
